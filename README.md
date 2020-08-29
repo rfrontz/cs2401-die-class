@@ -1,1 +1,2 @@
-# cs2401-die-class
+# The second Git Lab
+## Second team member: also Ryan
