@@ -1,1 +1,2 @@
-# cs2401-die-class
+# Git Lab #2
+## First team member: Ryan
